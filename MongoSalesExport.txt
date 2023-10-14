@@ -1,0 +1,1 @@
+mongoexport --uri="mongodb+srv://test-airbnb:test-airbnb@cluster1.fdoztgk.mongodb.net/sample_supplies" --collection="sales" --out=sales.json
